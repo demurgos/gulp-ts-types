@@ -1,0 +1,13 @@
+{
+  "name": "gulp-ts-types",
+  "description": "Test of gulp-ts with @types",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "gulp-typescript": "^3.0.2",
+    "typescript": "^2.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

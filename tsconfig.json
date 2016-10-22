@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "outDir": "build"
+  },
+  "include": [
+    "typings/**/*.d.ts",
+    "src/**/*.ts"
+  ]
+}
