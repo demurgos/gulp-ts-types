@@ -6,7 +6,7 @@
     "outDir": "build"
   },
   "include": [
-    "typings/**/*.d.ts",
+    "typings/tsd.d.ts",
     "src/**/*.ts"
   ]
 }
